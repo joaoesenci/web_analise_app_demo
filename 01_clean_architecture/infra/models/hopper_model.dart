@@ -28,4 +28,4 @@ final class HopperModel extends HopperEntity {
   }
 }
 
-// 'nome-do-campo' está sendo buscado para proteger o arquivo json real no portfólio, mantendo a segurança.
+// Está como 'nome do campo' para proteger o arquivo json real no portfólio, mantendo a segurança.
